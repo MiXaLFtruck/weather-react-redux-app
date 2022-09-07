@@ -31,3 +31,10 @@ $ npm run dev
 - Redux
 - AJAX (axios)
 - Parcel Bundler
+
+### Upcoming features
+---
+- city/location autodetection
+- selecting any city
+- redux state management
+- light/dark theme
