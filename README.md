@@ -36,5 +36,6 @@ $ npm run dev
 ---
 - city/location autodetection
 - selecting any city
+- sliding daily/hourly data
 - redux state management
 - light/dark theme
